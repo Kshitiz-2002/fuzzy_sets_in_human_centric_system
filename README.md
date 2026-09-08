@@ -25,7 +25,7 @@ A Python library for modeling, evaluating, and analyzing fuzzy sets and membersh
 
 ```python
 import numpy as np
-from mem_functions.triangle import TriangularMembershipFunction
+from mem_functions.triangularMemFunc import TriangularMembershipFunction
 from fuzzy_sets.main import FuzzySetAnalysis
 
 # 1. Define the universe of discourse (e.g., Temperature from 0 to 40)
